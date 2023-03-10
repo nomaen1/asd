@@ -1,0 +1,2 @@
+lst = ["BMW", "Mingginyu", "Dear my all", "Osh", "Moscow", "Mercedes", "Stay away with me", "Cookie", "Положение", "Overdose", "Porsche", "Toyota", "California", "Janysh", "Omae wa mou"]
+print(lst[2:8])
