@@ -100,3 +100,5 @@
 #     print("Error")
 # finally:
 #     print("В итоге я сработаю")
+
+print('hello')
